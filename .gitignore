@@ -1,3 +1,5 @@
 *.fits
 *.h5
 *.txt
+*.pickle
+
